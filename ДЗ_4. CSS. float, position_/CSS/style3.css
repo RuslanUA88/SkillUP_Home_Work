@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    width: 1000px;
+    font-size: larger;
+    color: white;
+}
+header,nav,#sidebar,#content,aside,footer{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+header{
+    background-color: greenyellow;
+    height: 100px;
+}
+nav{
+    background-color: green;
+    height: 80px;
+}
+main{
+    height: 500px;
+    float: left;
+    padding: 0px;
+}
+#sidebar, aside{
+    background:blue;
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+#content{
+    background-color: rgb(77, 77, 133) ;
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+footer{
+    background-color: rgb(4, 192, 120);
+    height: 80px;
+    clear: both;
+}

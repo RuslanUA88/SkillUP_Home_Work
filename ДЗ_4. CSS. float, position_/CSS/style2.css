@@ -1,0 +1,16 @@
+ul{
+    width: 700px;
+}
+li{
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgba(150, 158, 161, 0.3);
+    border: 1px solid  rgba(142, 146, 165, 0.5);
+}
+li:nth-child(3), li:nth-child(7){
+    background-color: rgba(21, 253, 0, 0.3) ;
+}

@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    width: 1920px;
+    font-size: 48px;
+    line-height: 36px;
+    color: #ffffff;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 115px;
+    }
+    .container{
+        margin-top: 34px;
+    }
+body{
+    width: 1920px;
+    height: 788px;
+    background-image: url("../Images/background.jpg");
+    background-color: #cccccc;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    align-content: center;
+    margin: 0px;
+    padding: 0px;
+     }
+.head{
+    width: 1920px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #949494;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 0px;
+}
+.img{
+    width: 135px;
+    height: 135px;
+    border-radius: 50%;
+    margin-top: 134px;
+    margin: auto;
+}
+.worker1{
+    background-image: url("../Images/worker1.jpg");
+    width: 130px;
+    height: 130px;
+    margin-top: 5px;
+}
+.worker2{
+    background-image: url("../Images/worker2.jpg");
+    width: 130px;
+    height: 130px;
+    margin-top: 5px;
+}.worker3{
+    background-image: url("../Images/worker3.jpg");
+}.worker4{
+    background-image: url("../Images/worker4.jpg");
+}
+.name{
+    line-height: 36px;
+    font-size: 24px;
+    width: 250px;
+    color: #ffffff;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.workers{
+    box-sizing: border-box;
+    margin: 0px auto;
+    margin-top: 120px;
+    margin-left: 315px;
+}
+.worker:nth-child(3){
+    margin-left: 45px;
+}
+.worker{
+    display: inline-block;
+    width: 250px;
+    height: 369px;
+    margin: 0px;
+    margin-left: 55px;
+}
+
+.about{
+    box-sizing: border-box;
+    width: 250px;
+    height: 102px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #949494;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin: 0px;
+    margin-top: 20px;
+    width: 246px;
+}
+.bottom{
+    width: 205px;
+    height: 50px;
+    margin-left: 858px;
+    margin-top: 3px;
+    border-radius: 25px;
+    background-image: linear-gradient(74deg, #48007c 0%, #e70087 100%);
+    
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 18px;
+    line-height: 36px;
+    color: #ffffff;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+    text-align: center;
+    padding: auto;
+    text-decoration: none;
+    padding-top: 7px;
+}

@@ -1,0 +1,24 @@
+
+body {
+   font-family: Montserrat; 
+   font-size: 1.5em; 
+   text-align: justify; 
+   letter-spacing: 0.05em;
+   line-height: 1.4;
+   color: green;
+   }
+a:first-child:hover{
+   color:#3b5998;
+   }
+a:nth-child(2):hover{
+   color: #c4302b;
+   }
+a:nth-child(3):hover {
+     color: #e4405f;
+   }
+a:nth-child(4):hover{
+   color: #c8232c;
+   }
+a{
+   color: grey;
+   }

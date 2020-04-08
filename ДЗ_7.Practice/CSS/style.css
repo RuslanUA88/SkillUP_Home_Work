@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fira Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1360px;
+}
+
+.manu{
+    display: flex;
+    max-width: 1110px;
+    justify-content: space-between;
+    background-color: aqua;
+    align-items: center;
+    margin: 59px auto;
+}
+.main{
+    display: flex;
+    max-width: 1235px;
+    margin-left: 125px;
+}
+.pic{
+    margin-left: 95px;
+}
+h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    color: #151515;
+}
+.text{
+    width: 474px;
+}

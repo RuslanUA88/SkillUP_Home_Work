@@ -1,4 +1,4 @@
-
+// 1-й варіант
 // let ob= {
 //     a : getLine(1),
 //     b : getLine(2),
@@ -19,6 +19,8 @@
 
 // console.log(ob.a, ob.b, ob.c, ob.d, ob.e, ob.f, ob.g, ob.j, ob.k);
 
+
+// 2-й варіант
 
 
 function getLine(){ 

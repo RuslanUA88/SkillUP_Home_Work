@@ -1,0 +1,14 @@
+.menu ul {
+    margin: 0;
+    list-style: none;
+    padding-left: 20px;
+    display: none;
+  }
+  .menu.open ul {
+    display: block;
+  }
+  span{
+      background-color: aqua;
+      border: 1px solid blue;
+      padding: 3px;
+  }

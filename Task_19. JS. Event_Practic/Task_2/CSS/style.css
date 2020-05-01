@@ -1,0 +1,18 @@
+#field{
+    width: 1000px;
+    height: 500px;
+    border: 10px solid black;
+    position: relative;
+    overflow: hidden;
+}
+#click{
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: cadetblue;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: all 0.3s;
+};
